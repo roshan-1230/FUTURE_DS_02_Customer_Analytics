@@ -39,5 +39,6 @@ This project analyzes customer behavior using e-commerce data to understand rete
 
 ## 📸 Dashboard Preview
 
+<img width="1315" height="747" alt="Dashboard" src="https://github.com/roshan-1230/FUTURE_DS_01/blob/main/dashboard.png" />
 
 📁 Dataset: https://drive.google.com/file/d/1PNh2LqF2yOLYBP1NYF7Y1UqBbp9FgAIs/view?usp=sharing
